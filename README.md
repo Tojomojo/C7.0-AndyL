@@ -29,7 +29,7 @@ This is a command-line application that generates README's based on user input.
   
   ## Video
   
-  Watch the demo video
+  Watch the demo video: https://drive.google.com/file/d/1yxBqhK95rL_nczflmfgFEf5Yv6kFfZAf/view
   
   [README GENERATOR](Enter Here "README GENERATOR")
 
